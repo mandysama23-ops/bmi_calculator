@@ -226,15 +226,6 @@ svg,
 .needle{
     display:none;
 }
-
-/* Center controls */
-
-.controls{
-    width:100%;
-    border-top:1px solid var(--line);
-    padding-top:35px;
-}
-
 /* Remove Live badge */
 
 .badge{
