@@ -234,7 +234,9 @@ const slides = [
     "BMI calculator/Slide3.JPG",
     "BMI calculator/Slide4.JPG",
     "BMI calculator/Slide5.JPG",
-    "BMI calculator/Slide6.JPG"
+    "BMI calculator/Slide6.JPG",
+    "BMI calculator/Slide7.JPG",
+    "BMI calculator/Slide8.JPG"
 ];
 
 let current = 0;
